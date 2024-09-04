@@ -1,0 +1,10 @@
+W3
+    Understand what a matrix is and how it corresponds to a transformation.
+    Explain and calculate inverse and determinant of matrices
+    Identify and explain how to find inverses computationally and what goes wrong.
+	
+W4
+    Identify matrices as operators
+    Relate the transformation matrix to a set of new basis vectors
+    Formulate code for mappings based on these transformation matrices
+    Write code to find an orthonormal basis set computationally

@@ -1,0 +1,23 @@
+W2
+    Recognize that differentiation can be applied to multiple variables in an equation
+    Use multivariate calculus tools on example equations
+    Recognise the utility of vector/matrix structures in multivariate calculus
+    Examine two dimensional problems using the Jacobian
+	
+W3
+    Apply the multivariate chain rule to differentiate nested functions
+    Explain the structure and function of a neural net
+    Apply multivariate calculate tools to relate network parameters to outputs
+    Implement backpropagation on a small neural network
+	
+W5
+    Recognize the principles of gradient descent
+    Implement optimisation using multivariate calculus
+    Examine cases where the method fails to return the best solution
+    Solve gradient descent problems that are subject to a constraints using Lagrange Multipliers
+
+W6
+    Describe regression as a minimisation of errors problem
+    Distinguish appropriate from inappropriate models for particular data sets
+    Calculate multivariate calculus objects to perform a regression
+    Create code to fit a non-linear function to data using gradient descent
